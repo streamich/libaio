@@ -1,7 +1,7 @@
 {
   "name": "libaio",
   "description": "Asynchronous IO using libjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "libaio.js",
   "keywords": [
     "libaio",
